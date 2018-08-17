@@ -1,0 +1,22 @@
+{
+    "personal": {
+        "name": "Ahmed Adel",
+        "email": "w33zy.7@gmail.com",
+        "image": "../images/code.jpg",
+        "education": {
+            "department": "Computer Science Dept.",
+            "college": "Faculty of Science",
+            "univeristy": "Alexandria Univeristy"
+        }
+    },
+    "experience": [
+        "UX desginer at CuraWella",
+        "Leader of Archy Project"
+    ],
+    "hoppies": [
+        "Martial Arts",
+        "Football",
+        "Running",
+        "Programming"
+    ]
+}
